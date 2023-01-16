@@ -1,0 +1,22 @@
+{
+  "name": "handsone3",
+  "version": "1.0.0",
+  "description": "ass3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hareeswar27/nodehands3.git"
+  },
+  "author": "hareeswar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hareeswar27/nodehands3/issues"
+  },
+  "homepage": "https://github.com/hareeswar27/nodehands3#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
